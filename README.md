@@ -1,16 +1,19 @@
-## Hi there 👋
+# Anand Verma
 
-<!--
-**92Anand36/92Anand36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cyber Security Analyst & Python Developer
 
-Here are some ideas to get you started:
+### Skills
+- Ethical Hacking
+- Penetration Testing
+- OSINT
+- Network Security
+- Digital Forensics
+- Linux Security
+- Python Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Cybersecurity Research
+- Threat Intelligence
+- Security Tools Development
+
+GitHub: https://github.com/92Anand36
