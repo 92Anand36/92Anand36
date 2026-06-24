@@ -1,19 +1,25 @@
-# Anand Verma
+# Hi, I'm Anand Verma 👋
 
-## Cyber Security Analyst & Python Developer
+🔐 Cyber Security Analyst
+🐍 Python Developer
+🎓 B.Tech AI & ML (2023–2027)
 
-### Skills
-- Ethical Hacking
-- Penetration Testing
-- OSINT
-- Network Security
-- Digital Forensics
-- Linux Security
-- Python Automation
+## Skills
 
-### Interests
-- Cybersecurity Research
-- Threat Intelligence
-- Security Tools Development
+* Ethical Hacking
+* OSINT
+* Penetration Testing
+* Network Security
+* Linux
+* Python
+* Wireshark
+* Nmap
+* Burp Suite
 
-GitHub: https://github.com/92Anand36
+## Portfolio Website
+
+https://92anand36.github.io/portfolio-website/
+
+## GitHub Stats
+
+Always learning and building cybersecurity projects.
